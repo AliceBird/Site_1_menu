@@ -1,0 +1,43 @@
+.menu__title__main{
+
+}
+
+.menu__wrapper{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.menu__h3{
+    color: #DC780B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 44px;
+    margin-bottom: 9px;
+}
+
+.menu__title{
+  /*  width: 325px;*/
+    padding-top: 10px;
+    padding-bottom: 25px;
+    padding-right: 64px;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.menu__discription{
+  /*  width: 748px;
+    height: 76px;*/
+    padding-top: 25px;
+    padding-bottom: 21px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    opacity: 70%;
+}
